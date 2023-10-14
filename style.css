@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+body{
+   
+    overflow: auto;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+.CONTAINER{
+    
+    background-color: brown;
+    width: 100%;
+    height: auto;
+}
+a{
+    padding: 0%;
+    color: red;
+    margin: 20px;
+    float: left;
+    text-decoration: none;
+    font-size: 20px; 
+    transition: .3s;
+   
+    
+}
+a:hover{
+    color: blue;
+}
+.ss{
+    float: right;
+}
+.bb{
+    margin-right: 500px;
+    padding-left: 20px;
+}
